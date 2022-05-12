@@ -1,0 +1,61 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "username": "Jairoshi",
+            "userImage": "",
+            "likes": 203,
+            "image": "",
+            "description": "Be a part of BNP team has been an amazing experience and I'm enjoying a lot, come to be a part of BNP team",
+            "commentsAmount": 2,
+            "comments": [
+                {
+                    "username": "Juan",
+                    "userImage": "",
+                    "comment": "Cool, enjoy a lot man",
+                    "likes": 1
+                },
+                {
+                    "username": "Damodar",
+                    "userImage": "",
+                    "comment": "Nice, I'm happy for you",
+                    "likes": 1
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "username": "Juan",
+            "userImage": "",
+            "likes": 500,
+            "image": "",
+            "description": "We are almost finishing the first BNP App version",
+            "commentsAmount": 1,
+            "comments": [
+                {
+                    "username": "Jairoshi",
+                    "userImage": "",
+                    "comment": "Yeah, it is amazing!",
+                    "likes": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "username": "Damodar",
+            "userImage": "",
+            "likes": 180,
+            "image": "",
+            "description": "I'm excited to start in BNP team and create interesting features",
+            "commentsAmount": 1,
+            "comments": [
+                {
+                    "username": "Juan",
+                    "userImage": "",
+                    "comment": "Yeah, it will be a challenges and you will be successful on it",
+                    "likes": 1
+                }
+            ]
+        }
+    ]
+}
